@@ -1,2 +1,3 @@
-# pip-example
-Pip example (made with Pip Playground)
+# Pip example
+
+Made with Pip Playground.
